@@ -1,3 +1,6 @@
 [submodule "HomeAssistant"]
 	path = HomeAssistant
 	url = git@github.com:home-assistant/home-assistant.git
+[submodule "alertR"]
+	path = alertR
+	url = git@github.com:sqall01/alertR.git
