@@ -4,3 +4,6 @@
 [submodule "alertR"]
 	path = alertR
 	url = git@github.com:sqall01/alertR.git
+[submodule "souliss"]
+	path = souliss
+	url = git@github.com:souliss/souliss.git
