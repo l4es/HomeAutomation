@@ -7,3 +7,9 @@
 [submodule "souliss"]
 	path = souliss
 	url = https://github.com/souliss/souliss.git
+[submodule "openHCAN/openHCANd"]
+	path = openHCAN/openHCANd
+	url = https://github.com/hcanIngo/openHCANd.git
+[submodule "openHCAN/openHCAN"]
+	path = openHCAN/openHCAN
+	url = https://github.com/hcanIngo/openHCAN.git
