@@ -1,9 +1,9 @@
 [submodule "HomeAssistant"]
 	path = HomeAssistant
-	url = git@github.com:home-assistant/home-assistant.git
+	url = https://github.com/home-assistant/home-assistant.git
 [submodule "alertR"]
 	path = alertR
-	url = git@github.com:sqall01/alertR.git
+	url = https://github.com/sqall01/alertR.git
 [submodule "souliss"]
 	path = souliss
-	url = git@github.com:souliss/souliss.git
+	url = https://github.com/souliss/souliss.git
