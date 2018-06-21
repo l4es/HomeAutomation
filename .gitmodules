@@ -13,3 +13,18 @@
 [submodule "openHCAN/openHCAN"]
 	path = openHCAN/openHCAN
 	url = https://github.com/hcanIngo/openHCAN.git
+[submodule "Home-Monitoring-Raspberry-Pi-Node"]
+	path = Home-Monitoring-Raspberry-Pi-Node
+	url = https://github.com/orosandrei/Home-Monitoring-Raspberry-Pi-Node.git
+[submodule "kotihome"]
+	path = kotihome
+	url = https://github.com/arturi/kotihome.git
+[submodule "it-gets-the-hose-again"]
+	path = it-gets-the-hose-again
+	url = https://github.com/mrsharpoblunto/it-gets-the-hose-again.git
+[submodule "home-automation"]
+	path = home-automation
+	url = https://github.com/deepsyx/home-automation.git
+[submodule "pimatic"]
+	path = pimatic
+	url = https://github.com/pimatic/pimatic.git
