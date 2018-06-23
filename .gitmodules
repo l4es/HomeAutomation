@@ -28,3 +28,15 @@
 [submodule "pimatic"]
 	path = pimatic
 	url = https://github.com/pimatic/pimatic.git
+[submodule "Aurora/Aurora-Server"]
+	path = Aurora/Aurora-Server
+	url = https://github.com/urcoilbisurco/Aurora-Server.git
+[submodule "Aurora/Aurora-Nodes"]
+	path = Aurora/Aurora-Nodes
+	url = https://github.com/urcoilbisurco/Aurora-Nodes.git
+[submodule "Aurora/Aurora"]
+	path = Aurora/Aurora
+	url = https://github.com/urcoilbisurco/Aurora.git
+[submodule "Aurora/Aurora-Raspberry"]
+	path = Aurora/Aurora-Raspberry
+	url = https://github.com/urcoilbisurco/Aurora-Raspberry.git
