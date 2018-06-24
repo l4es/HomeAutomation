@@ -40,3 +40,15 @@
 [submodule "Aurora/Aurora-Raspberry"]
 	path = Aurora/Aurora-Raspberry
 	url = https://github.com/urcoilbisurco/Aurora-Raspberry.git
+[submodule "homebridge"]
+	path = HomeBridge/homebridge
+	url = https://github.com/nfarina/homebridge.git
+[submodule "homebridge-icontrol"]
+	path = homebridge-icontrol
+	url = https://github.com/nfarina/homebridge-icontrol.git
+[submodule "icontrol"]
+	path = icontrol
+	url = https://github.com/nfarina/icontrol.git
+[submodule "homebridge-philipshue"]
+	path = homebridge-philipshue
+	url = https://github.com/nfarina/homebridge-philipshue.git
