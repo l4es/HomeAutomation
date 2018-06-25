@@ -64,3 +64,12 @@
 [submodule "SmartHome"]
 	path = SmartHome
 	url = https://github.com/Parinyadahmi/SmartHome.git
+[submodule "switchBoard"]
+	path = switchBoard
+	url = https://github.com/imbrianj/switchBoard.git
+[submodule "garage-door-hacks"]
+	path = garage-door-hacks
+	url = https://github.com/bobey/garage-door-hacks.git
+[submodule "rpi-web-control"]
+	path = rpi-web-control
+	url = https://github.com/openhomeautomation/rpi-web-control.git
