@@ -52,3 +52,15 @@
 [submodule "homebridge-philipshue"]
 	path = homebridge-philipshue
 	url = https://github.com/nfarina/homebridge-philipshue.git
+[submodule "majordomo"]
+	path = majordomo
+	url = https://github.com/sergejey/majordomo.git
+[submodule "mycontroller"]
+	path = mycontroller
+	url = https://github.com/mycontroller-org/mycontroller.git
+[submodule "heimcontrol.js"]
+	path = heimcontrol.js
+	url = https://github.com/ni-c/heimcontrol.js.git
+[submodule "SmartHome"]
+	path = SmartHome
+	url = https://github.com/Parinyadahmi/SmartHome.git
