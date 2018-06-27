@@ -73,3 +73,6 @@
 [submodule "rpi-web-control"]
 	path = rpi-web-control
 	url = https://github.com/openhomeautomation/rpi-web-control.git
+[submodule "home-controll"]
+	path = home-controll
+	url = https://github.com/VolodymyrTymets/home-controll.git
