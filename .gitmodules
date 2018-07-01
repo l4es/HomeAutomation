@@ -97,3 +97,6 @@
 [submodule "OpenMotics/sdk"]
 	path = OpenMotics/sdk
 	url = https://github.com/openmotics/sdk.git
+[submodule "Kaazing/kaazingPi"]
+	path = Kaazing/kaazingPi
+	url = https://github.com/dpwspoon/kaazingPi.git
