@@ -100,3 +100,12 @@
 [submodule "Kaazing/kaazingPi"]
 	path = Kaazing/kaazingPi
 	url = https://github.com/dpwspoon/kaazingPi.git
+[submodule "HomePi/rcswitch-rest"]
+	path = HomePi/rcswitch-rest
+	url = https://github.com/denschu/rcswitch-rest
+[submodule "HomePi/home.pi"]
+	path = HomePi/home.pi
+	url = https://github.com/denschu/home.pi
+[submodule "HomePi/rcswitch-pi"]
+	path = HomePi/rcswitch-pi
+	url = https://github.com/denschu/rcswitch-pi
