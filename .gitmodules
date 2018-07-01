@@ -76,3 +76,24 @@
 [submodule "home-controll"]
 	path = home-controll
 	url = https://github.com/VolodymyrTymets/home-controll.git
+[submodule "OpenMotics/hardware"]
+	path = OpenMotics/hardware
+	url = https://github.com/openmotics/hardware.git
+[submodule "OpenMotics/gateway-frontend"]
+	path = OpenMotics/gateway-frontend
+	url = https://github.com/openmotics/gateway-frontend.git
+[submodule "OpenMotics/home-assistant"]
+	path = OpenMotics/home-assistant
+	url = https://github.com/openmotics/home-assistant.git
+[submodule "OpenMotics/gateway"]
+	path = OpenMotics/gateway
+	url = https://github.com/openmotics/gateway.git
+[submodule "OpenMotics/firmware-bootloader-rs485-slaves"]
+	path = OpenMotics/firmware-bootloader-rs485-slaves
+	url = https://github.com/openmotics/firmware-bootloader-rs485-slaves.git
+[submodule "OpenMotics/plugins"]
+	path = OpenMotics/plugins
+	url = https://github.com/openmotics/plugins.git
+[submodule "OpenMotics/sdk"]
+	path = OpenMotics/sdk
+	url = https://github.com/openmotics/sdk.git
