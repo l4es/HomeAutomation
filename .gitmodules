@@ -62,7 +62,7 @@
 	path = heimcontrol.js
 	url = https://github.com/ni-c/heimcontrol.js.git
 [submodule "SmartHome"]
-	path = SmartHome
+	path = React-SmartHome
 	url = https://github.com/Parinyadahmi/SmartHome.git
 [submodule "switchBoard"]
 	path = switchBoard
