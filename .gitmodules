@@ -109,3 +109,9 @@
 [submodule "HomePi/rcswitch-pi"]
 	path = HomePi/rcswitch-pi
 	url = https://github.com/denschu/rcswitch-pi
+[submodule "HomeGenie"]
+	path = HomeGenie
+	url = https://github.com/genielabs/HomeGenie.git
+[submodule "CometVisu"]
+	path = CometVisu
+	url = https://github.com/CometVisu/CometVisu.git
