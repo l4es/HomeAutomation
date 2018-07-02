@@ -115,3 +115,9 @@
 [submodule "CometVisu"]
 	path = CometVisu
 	url = https://github.com/CometVisu/CometVisu.git
+[submodule "smarthome"]
+	path = smarthome
+	url = https://github.com/cecchisandrone/smarthome.git
+[submodule "Insteon-Smarthome"]
+	path = Insteon-Smarthome
+	url = https://github.com/jigsheth57/smarthome.git
