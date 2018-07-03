@@ -136,3 +136,12 @@
 [submodule "kerberos-io/web"]
 	path = kerberos-io/web
 	url = https://github.com/kerberos-io/web.git
+[submodule "raspberry-pi-camera"]
+	path = raspberry-pi-camera
+	url = https://github.com/kajalv/raspberry-pi-camera.git
+[submodule "Smart-Security-Camera"]
+	path = Smart-Security-Camera
+	url = https://github.com/HackerShackOfficial/Smart-Security-Camera.git
+[submodule "picamera"]
+	path = picamera
+	url = https://github.com/waveform80/picamera.git
