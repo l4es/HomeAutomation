@@ -130,3 +130,9 @@
 [submodule "rbpiDashboard"]
 	path = rbpiDashboard
 	url = https://github.com/valentinp72/rbpiDashboard.git
+[submodule "kerberos-io/machinery"]
+	path = kerberos-io/machinery
+	url = https://github.com/kerberos-io/machinery.git
+[submodule "kerberos-io/web"]
+	path = kerberos-io/web
+	url = https://github.com/kerberos-io/web.git
