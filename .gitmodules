@@ -145,3 +145,9 @@
 [submodule "picamera"]
 	path = picamera
 	url = https://github.com/waveform80/picamera.git
+[submodule "MotionEye/motioneyeos"]
+	path = MotionEye/motioneyeos
+	url = https://github.com/ccrisan/motioneyeos.git
+[submodule "MotionEye/motioneye"]
+	path = MotionEye/motioneye
+	url = https://github.com/ccrisan/motioneye.git
