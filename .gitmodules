@@ -169,3 +169,36 @@
 [submodule "Calaos/calaos-os-update-ws"]
 	path = Calaos/calaos-os-update-ws
 	url = https://github.com/calaos/calaos-os-update-ws.git
+[submodule "domoticz"]
+	path = domoticz
+	url = https://github.com/domoticz/domoticz.git
+[submodule "smarthomatic"]
+	path = smarthomatic
+	url = https://github.com/breaker27/smarthomatic.git
+[submodule "misterhouse"]
+	path = misterhouse
+	url = https://github.com/hollie/misterhouse.git
+[submodule "OpenNetHome/NetHomeServer"]
+	path = OpenNetHome/NetHomeServer
+	url = https://github.com/NetHome/NetHomeServer.git
+[submodule "OpenNetHome/ProtocolAnalyzer"]
+	path = OpenNetHome/ProtocolAnalyzer
+	url = https://github.com/NetHome/ProtocolAnalyzer.git
+[submodule "OpenNetHome/ZWave"]
+	path = OpenNetHome/ZWave
+	url = https://github.com/NetHome/ZWave.git
+[submodule "OpenNetHome/Scanner"]
+	path = OpenNetHome/Scanner
+	url = https://github.com/NetHome/Scanner.git
+[submodule "OpenNetHome/Coders"]
+	path = OpenNetHome/Coders
+	url = https://github.com/NetHome/Coders.git
+[submodule "OpenNetHome/Utils"]
+	path = OpenNetHome/Utils
+	url = https://github.com/NetHome/Utils.git
+[submodule "OpenNetHome/CULFirmware"]
+	path = OpenNetHome/CULFirmware
+	url = https://github.com/NetHome/CULFirmware.git
+[submodule "Jeedom/core"]
+	path = Jeedom/core
+	url = https://github.com/jeedom/core.git
