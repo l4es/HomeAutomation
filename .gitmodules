@@ -202,3 +202,15 @@
 [submodule "Jeedom/core"]
 	path = Jeedom/core
 	url = https://github.com/jeedom/core.git
+[submodule "Kinoma/kinomajs"]
+	path = Kinoma/kinomajs
+	url = https://github.com/Kinoma/kinomajs.git
+[submodule "OpenHybrid/HybridObject"]
+	path = OpenHybrid/HybridObject
+	url = https://github.com/openhybrid/HybridObject.git
+[submodule "OpenHybrid/editor"]
+	path = OpenHybrid/editor
+	url = https://github.com/openhybrid/editor.git
+[submodule "OpenHybrid/object"]
+	path = OpenHybrid/object
+	url = https://github.com/openhybrid/object.git
