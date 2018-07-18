@@ -151,3 +151,21 @@
 [submodule "MotionEye/motioneye"]
 	path = MotionEye/motioneye
 	url = https://github.com/ccrisan/motioneye.git
+[submodule "Calaos/calaos_base"]
+	path = Calaos/calaos_base
+	url = https://github.com/calaos/calaos_base.git
+[submodule "Calaos/calaos-os"]
+	path = Calaos/calaos-os
+	url = https://github.com/calaos/calaos-os.git
+[submodule "Calaos/calaos_mobile"]
+	path = Calaos/calaos_mobile
+	url = https://github.com/calaos/calaos_mobile.git
+[submodule "Calaos/calaos-web-app"]
+	path = Calaos/calaos-web-app
+	url = https://github.com/calaos/calaos-web-app.git
+[submodule "Calaos/calaos_web"]
+	path = Calaos/calaos_web
+	url = https://github.com/calaos/calaos_web.git
+[submodule "Calaos/calaos-os-update-ws"]
+	path = Calaos/calaos-os-update-ws
+	url = https://github.com/calaos/calaos-os-update-ws.git
