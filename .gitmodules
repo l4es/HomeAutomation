@@ -214,3 +214,9 @@
 [submodule "OpenHybrid/object"]
 	path = OpenHybrid/object
 	url = https://github.com/openhybrid/object.git
+[submodule "smart-homes-pi-zero"]
+	path = smart-homes-pi-zero
+	url = https://github.com/openhomeautomation/smart-homes-pi-zero.git
+[submodule "AdrianSmartAssistant"]
+	path = AdrianSmartAssistant
+	url = https://github.com/TheAdrianProject/AdrianSmartAssistant.git
