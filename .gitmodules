@@ -220,3 +220,9 @@
 [submodule "AdrianSmartAssistant"]
 	path = AdrianSmartAssistant
 	url = https://github.com/TheAdrianProject/AdrianSmartAssistant.git
+[submodule "NextDom/NextDom"]
+	path = NextDom/NextDom
+	url = https://github.com/NextDom/NextDom.git
+[submodule "NextDom/custom-jeedom"]
+	path = NextDom/custom-jeedom
+	url = https://github.com/NextDom/custom-jeedom.git
