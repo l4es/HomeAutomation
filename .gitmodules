@@ -226,3 +226,6 @@
 [submodule "NextDom/custom-jeedom"]
 	path = NextDom/custom-jeedom
 	url = https://github.com/NextDom/custom-jeedom.git
+[submodule "pi-house"]
+	path = pi-house
+	url = https://github.com/pubnub/pi-house.git
