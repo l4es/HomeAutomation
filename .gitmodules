@@ -232,3 +232,6 @@
 [submodule "Domoticz/Reacticz"]
 	path = Domoticz/Reacticz
 	url = https://github.com/domoticz/Reacticz.git
+[submodule "home-pi-web"]
+	path = home-pi-web
+	url = https://github.com/trishika/home-pi-web.git
