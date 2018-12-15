@@ -235,3 +235,6 @@
 [submodule "home-pi-web"]
 	path = home-pi-web
 	url = https://github.com/trishika/home-pi-web.git
+[submodule "my-home-automation"]
+	path = my-home-automation
+	url = https://github.com/gonzalo123/home-automation
