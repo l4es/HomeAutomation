@@ -238,3 +238,6 @@
 [submodule "my-home-automation"]
 	path = my-home-automation
 	url = https://github.com/gonzalo123/home-automation
+[submodule "HomeOverlord"]
+	path = HomeOverlord
+	url = https://github.com/Udo/HomeOverlord
