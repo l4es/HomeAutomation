@@ -169,9 +169,6 @@
 [submodule "Calaos/calaos-os-update-ws"]
 	path = Calaos/calaos-os-update-ws
 	url = https://github.com/calaos/calaos-os-update-ws.git
-[submodule "domoticz"]
-	path = domoticz
-	url = https://github.com/domoticz/domoticz.git
 [submodule "smarthomatic"]
 	path = smarthomatic
 	url = https://github.com/breaker27/smarthomatic.git
