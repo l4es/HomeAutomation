@@ -238,3 +238,6 @@
 [submodule "HomeOverlord"]
 	path = HomeOverlord
 	url = https://github.com/Udo/HomeOverlord
+[submodule "Domoticz/domoticz"]
+	path = Domoticz/domoticz
+	url = https://github.com/domoticz/domoticz
